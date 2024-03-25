@@ -70,6 +70,12 @@ int main()
 			system("pause");
 			break;
 		
+		case 5:
+			break;
+		default:
+			cout << "Menu tidak tersedia silahkan pilih lagi!!! " << endl;
+			break;
+
 }
 
 
