@@ -64,7 +64,12 @@ int main()
 			system("pause");
 			break;
 
-    
+		case 4:
+			input();
+			cout << "Hasil pembagian = " << pembagian(a, b) << endl;
+			system("pause");
+			break;
+		
 }
 
 
